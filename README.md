@@ -53,6 +53,8 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+Follow me at:
 <div id="badges">
   <a href="https://www.linkedin.com/in/safiullahrahu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

@@ -52,4 +52,16 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/safiullahrahu/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Safiullah-Rahu">
+    <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://www.twitter.com/safiullah_rahu">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
   

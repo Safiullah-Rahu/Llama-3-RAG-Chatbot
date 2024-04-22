@@ -39,7 +39,7 @@ Welcome to the Llama3 Chat with PDF Web App repository! This project showcases a
 2. Access the web app via your web browser at `http://localhost:8501`.
 
 ## Demo
-<video src='demo.mp4' width=180></video>
+<video src='[demo.mp4](https://raw.githubusercontent.com/Safiullah-Rahu/Llama-3-RAG-Chatbot/main/demo.mp4)' width=180></video>
 
 ## Contributing
 Contributions to this project are welcome! If you'd like to contribute, please follow these steps:

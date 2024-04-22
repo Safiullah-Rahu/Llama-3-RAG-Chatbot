@@ -1,6 +1,4 @@
-# Llama3 RAG Chatbot
-
-# Streamlit Chat with PDF Web App
+# Llama3 RAG Chatbot 🦙💬
 
 Welcome to the Llama3 Chat with PDF Web App repository! This project showcases a powerful web application built using Streamlit, Meta's innovative Llama3 Language Model (LLM), and Hugging Face for embeddings. With this app, users can seamlessly interact with PDF documents, engage in chat conversations, and leverage the capabilities of the Llama3 LLM, all within a streamlined user interface and locally.
 

@@ -39,7 +39,7 @@ Welcome to the Llama3 Chat with PDF Web App repository! This project showcases a
 2. Access the web app via your web browser at `http://localhost:8501`.
 
 ## Demo
-<image src="sc.png">
+<img src="sc.png" alt="App Homepage">
 
 ## Contributing
 Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
